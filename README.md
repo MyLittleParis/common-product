@@ -11,7 +11,7 @@ Add the following to your composer.json file:
 ```json
 {
     "require": {
-        "antimattr/common-product": "~1.0@stable"
+        "my-little-paris/common-product": "~1.0@stable"
     }
 }
 ```
